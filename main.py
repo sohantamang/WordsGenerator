@@ -4,7 +4,7 @@ from WordsGenerator import WordsGenerator
 # Start here
 input = "tholufg"
 required_letter = "g"
-filename = "words_long.txt"
+filename = "english.txt"
 MIN_LENGTH = 4
 
 eng_dict = EnglishWords(filename)
