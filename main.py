@@ -2,8 +2,8 @@ from EnglishWords import EnglishWords
 from WordsGenerator import WordsGenerator
 
 # Start here
-input = "ast"
-required_letter = "s"
+input = "tholufg"
+required_letter = "g"
 filename = "words_long.txt"
 MIN_LENGTH = 4
 
